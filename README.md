@@ -2,3 +2,9 @@
 This is the code for the paper entitled "**Homomorphic Encryption in CNN Based Intrusion Detection SIn Intelligent Transportation System**"
 Authors: Ronilson Candido do Nascimento (ronilson.nascimento@laccan.ufal.br), Douglas Moura (douglas.moura@dcc.ufmg.br) and André Aquino (alla@laccan.ufal.br)  
 Organization: Instituto de Computação - Universidade Federal de Alagoas (UFAL); Departamento de Ciência da Computação Universidade Federal de Minas Gerais (UFMG)
+## Abstract of The Paper
+In the era of intelligent transportation systems, where vehicles, including autonomous and connected vehicles, are increasingly integrated with the external world, new functionalities and services significantly enhance vehicle connectivity. However, this increased connectivity also expands the attack surface of the Internet of Vehicles (IoV), exposing the system to cybersecurity vulnerabilities. The lack of robust authentication and encryption procedures in vehicular networks makes Intrusion Detection Systems (IDSs) essential for protecting these modern systems from cyber threats.
+
+In this context, this paper explores the integration of homomorphic encryption with convolutional neural networks (CNNs) as an innovative solution to enhance security in IoV networks. Homomorphic encryption allows for secure analysis of encrypted data, ensuring privacy without compromising the efficiency of threat detection. By combining this technology with machine learning techniques such as CNNs, it is possible to implement advanced IDSs that detect cyber-attacks with high accuracy. In experiments using a widely recognized dataset, such as the Car-Hacking dataset, this approach demonstrates its effectiveness.
+
+This integration of homomorphic encryption and CNNs, along with hyperparameter optimization, provides a powerful approach to protecting data and improving threat detection in IoV, ensuring the safety of modern vehicles in an increasingly interconnected environment.
